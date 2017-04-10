@@ -1,0 +1,19 @@
+.bg-color {
+	background-color:   #eaeaea  ;
+	margin-top: 40px;
+	padding-top: 20px;
+}
+
+
+.hide {
+	display: hidden;
+}
+
+#fred {
+	color: red;
+}
+
+ul {
+  list-style-type: none;
+}
+
